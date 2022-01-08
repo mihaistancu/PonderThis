@@ -1,13 +1,22 @@
-﻿
-var primes = GetPrimesWith5DistinctDigits();
+﻿var primes = GetPrimesWithDistinctDigits(5);
 
 Console.WriteLine(primes.Count);
 
-List<int> GetPrimesWith5DistinctDigits()
+int GetMinWithGivenDigits(int d)
+{
+    return d == 1 
+        ? 1 :
+        10 * GetMinWithGivenDigits(d-1);
+}
+
+List<int> GetPrimesWithDistinctDigits(int d)
 {
     List<int> result = new List<int>();
 
-    for (int i=10000; i<99999; i++) 
+    int min = GetMinWithGivenDigits(d);
+    int max = GetMinWithGivenDigits(d + 1) - 1;
+
+    for (int i=min; i<max; i++) 
     {
         if (IsPrime(i) && AreDigitsDistinct(i)) 
         {
