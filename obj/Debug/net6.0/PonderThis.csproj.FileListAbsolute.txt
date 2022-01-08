@@ -1,0 +1,15 @@
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\PonderThis.exe
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\PonderThis.deps.json
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\PonderThis.runtimeconfig.json
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\PonderThis.dll
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\ref\PonderThis.dll
+C:\Users\Mihai STANCU\Source\repos\PonderThis\bin\Debug\net6.0\PonderThis.pdb
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.csproj.AssemblyReference.cache
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.AssemblyInfoInputs.cache
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.AssemblyInfo.cs
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.csproj.CoreCompileInputs.cache
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.dll
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\ref\PonderThis.dll
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.pdb
+C:\Users\Mihai STANCU\Source\repos\PonderThis\obj\Debug\net6.0\PonderThis.genruntimeconfig.cache
